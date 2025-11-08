@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Blender関連ファイル
+*.blend1
+*.blend2
+__blender_backup__/
+textures/
+render_output/
+
